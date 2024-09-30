@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "1111@example.com",
+      "dateOfBirth": "1990-01-15",
+      "preferences": {
+        "theme": "dark",
+        "language": "English",
+        "notifications": true,
+        "subscribed": true
+      },
+      "address": {
+        "street": "123 Maple St",
+        "city": "Shang Hai",
+        "state": "SH",
+        "zipCode": "62700"
+      }
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "2222@example.com",
+      "dateOfBirth": "1985-07-22",
+      "preferences": {
+        "theme": "light",
+        "language": "English",
+        "notifications": false,
+        "subscribed": false
+      },
+      "address": {
+        "street": "456 Oak St",
+        "city": "Capital City",
+        "state": "CA",
+        "zipCode": "90000"
+      }
+    },
+    {
+      "firstName": "Ming",
+      "lastName": "Li",
+      "email": "3333@example.com",
+      "dateOfBirth": "1992-03-3",
+      "preferences": {
+        "theme": "dark",
+        "language": "Chinese",
+        "notifications": true,
+        "subscribed": true
+      },
+      "address": {
+        "street": "144 Xinhua St",
+        "city": "BeiJing",
+        "state": "BJ",
+        "zipCode": "10001"
+      }
+    }
+  ]
+}
